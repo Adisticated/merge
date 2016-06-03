@@ -21,6 +21,7 @@ using namespace std;
 int main(int argc, char** argv) {
     
     std::cout<<"I am L1"<<std::endl;
+    std::cout<<"I am master hahaha"<<std::endl;
 
     return 0;
 }
