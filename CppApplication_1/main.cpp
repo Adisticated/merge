@@ -20,7 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     
-    std::cout<<"I am master"<<std::endl;
+    std::cout<<"I am maste1r"<<std::endl;
     std::cout<<"I am master hahaha"<<std::endl;
 
     return 0;
