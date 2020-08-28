@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 //rider+provider    
     std::cout<<"I am maste1r"<<std::endl;
     std::cout<<"I am master hahaha"<<std::endl;
-//rider
+//+rider
     return 0;
 }
 
